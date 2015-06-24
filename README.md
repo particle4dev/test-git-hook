@@ -1,2 +1,2 @@
 # test-git-hook
-test 5
+test 6
